@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ambition.guru.ico",
     "slug": "ag-api",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 1059,
-    "timeDay": 1131,
-    "timeWeek": 1059,
-    "timeMonth": 1059,
-    "timeYear": 1059,
-    "dailyMinutesDown": {
-      "2025-07-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1016,
+    "timeDay": 960,
+    "timeWeek": 1016,
+    "timeMonth": 1016,
+    "timeYear": 1016,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AG App",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ambition.guru.ico",
     "slug": "ag-app",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 1201,
-    "timeDay": 1361,
-    "timeWeek": 1201,
-    "timeMonth": 1201,
-    "timeYear": 1201,
-    "dailyMinutesDown": {
-      "2025-07-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1213,
+    "timeDay": 1052,
+    "timeWeek": 1213,
+    "timeMonth": 1213,
+    "timeYear": 1213,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AG Website",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ambition.guru.ico",
     "slug": "ag-website",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 2228,
-    "timeDay": 2208,
-    "timeWeek": 2228,
-    "timeMonth": 2228,
-    "timeYear": 2228,
-    "dailyMinutesDown": {
-      "2025-07-04": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2250,
+    "timeDay": 2357,
+    "timeWeek": 2250,
+    "timeMonth": 2250,
+    "timeYear": 2250,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AG Books",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/books.ambition.guru.ico",
     "slug": "ag-books",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1885,
-    "timeDay": 1922,
-    "timeWeek": 1885,
-    "timeMonth": 1885,
-    "timeYear": 1885,
-    "dailyMinutesDown": {
-      "2025-07-04": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1943,
+    "timeDay": 2016,
+    "timeWeek": 1943,
+    "timeMonth": 1943,
+    "timeYear": 1943,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
