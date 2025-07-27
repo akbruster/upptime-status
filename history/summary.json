@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1007,
-    "timeDay": 920,
-    "timeWeek": 1072,
-    "timeMonth": 1007,
-    "timeYear": 1007,
+    "time": 1002,
+    "timeDay": 857,
+    "timeWeek": 1030,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-07-08": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1022,
-    "timeDay": 1196,
-    "timeWeek": 1056,
-    "timeMonth": 1022,
-    "timeYear": 1022,
+    "time": 1021,
+    "timeDay": 1003,
+    "timeWeek": 1053,
+    "timeMonth": 1021,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-07-08": 20
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2049,
-    "timeDay": 2132,
-    "timeWeek": 1997,
-    "timeMonth": 2049,
-    "timeYear": 2049,
+    "time": 2056,
+    "timeDay": 2265,
+    "timeWeek": 2045,
+    "timeMonth": 2056,
+    "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-07-08": 20
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/books.ambition.guru.ico",
     "slug": "ag-books",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1707,
-    "timeDay": 1781,
-    "timeWeek": 1815,
-    "timeMonth": 1707,
-    "timeYear": 1707,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1713,
+    "timeDay": 1881,
+    "timeWeek": 1840,
+    "timeMonth": 1713,
+    "timeYear": 1713,
     "dailyMinutesDown": {
       "2025-07-13": 29,
       "2025-07-08": 20
