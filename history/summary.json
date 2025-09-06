@@ -4,11 +4,11 @@
     "url": "https://api.ambition.guru",
     "icon": "https://icons.duckduckgo.com/ip3/api.ambition.guru.ico",
     "slug": "ag-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 994,
     "timeDay": 902,
@@ -16,6 +16,7 @@
     "timeMonth": 993,
     "timeYear": 994,
     "dailyMinutesDown": {
+      "2025-09-06": 2,
       "2025-09-04": 19,
       "2025-07-08": 21
     }
@@ -25,10 +26,10 @@
     "url": "https://app.ambition.guru",
     "icon": "https://icons.duckduckgo.com/ip3/app.ambition.guru.ico",
     "slug": "ag-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 994,
@@ -37,6 +38,7 @@
     "timeMonth": 964,
     "timeYear": 994,
     "dailyMinutesDown": {
+      "2025-09-06": 1,
       "2025-09-04": 19,
       "2025-08-20": 19,
       "2025-07-08": 20
@@ -47,10 +49,10 @@
     "url": "https://ambition.guru",
     "icon": "https://icons.duckduckgo.com/ip3/ambition.guru.ico",
     "slug": "ag-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1975,
@@ -59,6 +61,7 @@
     "timeMonth": 1901,
     "timeYear": 1975,
     "dailyMinutesDown": {
+      "2025-09-06": 1,
       "2025-09-04": 18,
       "2025-07-08": 20
     }
@@ -68,9 +71,9 @@
     "url": "https://books.ambition.guru",
     "icon": "https://icons.duckduckgo.com/ip3/books.ambition.guru.ico",
     "slug": "ag-books",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
@@ -80,6 +83,7 @@
     "timeMonth": 1691,
     "timeYear": 1718,
     "dailyMinutesDown": {
+      "2025-09-06": 0,
       "2025-09-04": 18,
       "2025-07-13": 29,
       "2025-07-08": 20
