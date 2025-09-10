@@ -1,7 +1,7 @@
 url: https://api.ambition.guru
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-10T16:16:43.908Z
+status: up
+code: 200
+responseTime: 1114
+lastUpdated: 2025-09-10T16:40:11.097Z
 startTime: 2025-07-03T11:46:31.121Z
 generator: Upptime <https://github.com/upptime/upptime>
